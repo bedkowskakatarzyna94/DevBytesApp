@@ -1,4 +1,4 @@
-#Wed Jul 27 10:51:01 CEST 2022
+#Wed Jul 27 12:17:26 CEST 2022
 base.2=/Users/kbedkowska/Downloads/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
 path.2=classes2.dex
 base.1=/Users/kbedkowska/Downloads/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
